@@ -39,6 +39,7 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
     <li id="4.13"><b>Episode 4.13</b> (July 3, 2025) - Craig Peaslee, "Reimagining Music Analysis: A Radio Broadcast of Johanna Beyer’s Music of the Spheres"</li>
     <li id="4.14"><b>Episode 4.14</b> (July 10, 2025) - Alexandrea Jonker & Peter Schubert, "Idiomatic Improvisation: Where Theory Meets Aural Skills"</li>
   </ul>
+
 </div>
 
 <hr/>
