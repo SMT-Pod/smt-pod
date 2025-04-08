@@ -169,6 +169,9 @@
 <loc>http://localhost:4000/music/season04/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/newsarch/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/submit/OCPR/</loc>
 </url>
 <url>
@@ -310,6 +313,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/episodes/season04/supplements/S04Ep01Supp_lloyd_combs.pdf</loc>
-<lastmod>2025-04-07T11:10:23-04:00</lastmod>
+<lastmod>2025-04-07T11:52:30-04:00</lastmod>
 </url>
 </urlset>
