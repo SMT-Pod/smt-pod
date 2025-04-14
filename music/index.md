@@ -37,8 +37,6 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
       <h4><span class="biotitle">SMT-Pod Season 4 Closing Theme Composer:</span> <strong>Yike Zhang</strong></h4>
       <p style="font-size: 14px; font-weight: bold;"><a href="https://yikezhang.org" target="_blank">Composer Website's</a><br/>Piece Title: </p>
       <p>Yike Zhang (b. 1993 in Wuhan, China) is a composer active in Toronto and New York. In 2024, Zhang received her Doctor of Music Arts degree from the University of Toronto, where she was composer in residence for the University of Toronto symphony orchestra. She also received degrees from the Manhattan School of Music (MM) and Wuhan Conservatory of Music (BM). Her music synthesizes the diﬀerent worlds she was interested in from a young age — Western classical music and traditional Chinese concepts — organically combining those elements consciously and subconsciously. The fluidity and resonance that are the vitality of her music come from influences of impressionism and post-spectralism. Her works are performed in China, America, and Canada, with recent performances at the Asian Classical Music Initiative International Conference, the Graduate Center of the City University of New York, Columbia University, and Wuhan Qintai Concert Hall.</p>
-
-      <p>He graduated with his Master of Arts in composition from Stony Brook University, where he worked with Perry Goldstein and Daria Semegen, and received his Bachelor of Music in music theory/composition from Lawrence University, studying with Asha Srinivasan and Joanne Metcalf.</p>
       <a class="to-top" href="#top">Back to Top</a>
     </div>
     </div>

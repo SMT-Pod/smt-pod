@@ -13,6 +13,7 @@
 **April 2024** : That's a wrap on Season 3. Thank you to all of our authors, reviewers, producers, musicians, and board members for a great season!
 
 **January 2024** : Season 3 launches! Join us every Thursday beginning on January 25, 2024 for a weekly podcast episode.
+
 **June 2023** : [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
 
 **May 2023** : [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
@@ -33,7 +34,8 @@
 
 **September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme..
 
-**June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).-->
+**June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
+
 <hr>
 <h2>Listen to the Latest Episode</h2>
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow: hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
