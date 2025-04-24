@@ -33,8 +33,8 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
     <li id="4.7"><b>Episode 4.7</b> (May 22, 2025) - Jason Jedlička, "Voice and Agency in Henryk Górecki's Symphony No. 3"</li>
     <li id="4.8"><b>Episode 4.8</b> (May 29, 2025) - Brad Osborn, "Dual Leading Tone Loops in Post-Millennial Pop/Rock"</li>
     <li id="4.9"><b>Episode 4.9</b> (June 5, 2025) - Samantha Sasaki, "'For the Sake of Auld Lang Syne': Seeking Political Stability with the Great Highland Bagpipe in Hong Kong (1997-2024)"</li>
-    <li id="4.10"><b>Episode 4.10</b> (June 12, 2025) - Daniel Ketter "Reimagine the Sound: Or, How to Improvise a Cecil Taylor Improvisation"</li>
-    <li id="4.11"><b>Episode 4.11</b> (June 19, 2025) - Mark Micchelli, "The Impact of Timbre on Perceptions of Genre in Recorded Popular Music"</li>
+    <li id="4.10"><b>Episode 4.10</b> (June 12, 2025) - Daniel Ketter, "Fuguing Essential Voices: An Informance of J. S. Bach's Prelude and Fugue, BWV 1011"</li>
+    <li id="4.11"><b>Episode 4.11</b> (June 19, 2025) - Mark Micchelli, "Reimagine the Sound: Or, How to Improvise a Cecil Taylor Improvisation"</li>
     <li id="4.12"><b>Episode 4.12</b> (June 26, 2025) - Audrey Slote, "Nicole Mitchell’s Mandorla Awakening II and the Sounds of Black Utopian Social Theory"</li>
     <li id="4.13"><b>Episode 4.13</b> (July 3, 2025) - Craig Peaslee, "Reimagining Music Analysis: A Radio Broadcast of Johanna Beyer’s Music of the Spheres"</li>
     <li id="4.14"><b>Episode 4.14</b> (July 10, 2025) - Alexandrea Jonker & Peter Schubert, "Idiomatic Improvisation: Where Theory Meets Aural Skills"</li>
