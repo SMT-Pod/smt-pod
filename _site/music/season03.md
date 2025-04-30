@@ -31,7 +31,7 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <a href="https://discofry.itch.io/" target="_blank">Composer's Itch.io</a><br/>
 Composer's X: @DiscoFri<br/>
 Composer's IG: @carter_falkenstein<br/>
-Piece Titles: <em>Theme in Yellow</em> and <em>Beyond the Beyond</em> featured in <a href="/episodes/season03/#e3.10">Episode 3.10</a><br/>
+Piece Titles: <em>Theme in Yellow</em> and <em>Beyond the Beyond</em> featured in <a href="/episodes/season03/e3.10">Episode 3.10</a><br/>
 </p>
 <p>Carter Falkenstein is a student at College of Southern Maryland. They have produced scores for the concerthall and film.
 </p>
@@ -42,7 +42,7 @@ Piece Titles: <em>Theme in Yellow</em> and <em>Beyond the Beyond</em> featured i
 <a name="obregon"></a>
 <h4><strong>Luis Javier Obregon</strong></h4>
 <p style="font-size: 14px; font-weight: bold;">
-Piece Titles: Mvmt. II: Ligero from <em>Bells of Silk and Wood for Piano and Erhu</em> featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+Piece Titles: Mvmt. II: Ligero from <em>Bells of Silk and Wood for Piano and Erhu</em> featured in <a href="/episodes/season03/e3.5">Episode 3.5</a><br/>
 </p>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
@@ -52,7 +52,7 @@ Piece Titles: Mvmt. II: Ligero from <em>Bells of Silk and Wood for Piano and Erh
 <h4><strong>Nykia Osborne</strong></h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://soundcloud.com/nykia-osborne" target="_blank">Composer's Soundcloud</a><br/>
 <a href="https://nykiao.itch.io" target="_blank">Composer's Itch.io</a><br/>
-Piece Titles: <em>Slideshow</em> and Main Theme from <em>Play Your Own Accompaniment</em> featured in <a href="/episodes/season03/#e3.10">Episode 3.10</a><br/>
+Piece Titles: <em>Slideshow</em> and Main Theme from <em>Play Your Own Accompaniment</em> featured in <a href="/episodes/season03/e3.10">Episode 3.10</a><br/>
 </p>
 <p>Nykia Osborne is a graduate of College of Southern Maryland and has composed scores to the games <em>A Walk in the Park</em> and <em>Play Your Own Accompaniment</em>, an interactive resource for the Silent Film Sound and Music Archive.
 </p>
@@ -64,7 +64,7 @@ Piece Titles: <em>Slideshow</em> and Main Theme from <em>Play Your Own Accompani
 <h4><strong>Alani Pranzo</strong></h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://sites.google.com/view/alanipranzomusic/home?authuser=1" target="_blank">Composer's Website</a><br/>
 Composer's IG: @diab0lusinmusica<br/>
-Piece Titles: <em>Wanderers’ Evolution</em> and <em>Who Has Seen the Wind</em> featured in <a href="/episodes/season03/#e3.10">Episode 3.10</a><br/>
+Piece Titles: <em>Wanderers’ Evolution</em> and <em>Who Has Seen the Wind</em> featured in <a href="/episodes/season03/e3.10">Episode 3.10</a><br/>
 </p>
 <p>Alani Pranzo is a student at College of Southern Maryland. They have produced scores for the concerthall and film.
 </p>
@@ -75,7 +75,7 @@ Piece Titles: <em>Wanderers’ Evolution</em> and <em>Who Has Seen the Wind</em>
 <a name="weston"></a>
 <h4><strong>Craig Weston</strong></h4>
 <p style="font-size: 14px; font-weight: bold;">
-Piece Titles: Mvmt. III: Sweetly Swinging from <em>Glancing Spirals</em> - for Violin, Clarinet, and Piano featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+Piece Titles: Mvmt. III: Sweetly Swinging from <em>Glancing Spirals</em> - for Violin, Clarinet, and Piano featured in <a href="/episodes/season03/e3.5">Episode 3.5</a><br/>
 </p>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
@@ -84,7 +84,7 @@ Piece Titles: Mvmt. III: Sweetly Swinging from <em>Glancing Spirals</em> - for V
 <a name="yee"></a>
 <h4><strong>Thomas Yee</strong></h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://www.thomasbyee.com" target="_blank">Composer's Website</a><br/>
-Piece Titles: Segments from <em>Eva and the Angel of Death</em> - A Holocaust Rememberance Opera, <em>Earthrise for Saxophone Quartet</em>, and <em>Concerto Ludus for Piano and Gameboy</em> featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+Piece Titles: Segments from <em>Eva and the Angel of Death</em> - A Holocaust Rememberance Opera, <em>Earthrise for Saxophone Quartet</em>, and <em>Concerto Ludus for Piano and Gameboy</em> featured in <a href="/episodes/season03/e3.5">Episode 3.5</a><br/>
 </p>
 <p>Some composers found their love of music hearing Brahms or Beethoven — Thomas (b. 1992) discovered his from the beeps and boops of the Super Nintendo. Thomas composes transformative Holocaust Remembrance opera (<em><a href="https://vimeo.com/793376598" target="_blank">Eva and the Angel of Death</a></em>) and concert pieces remixing live performance with the chiptune aesthetics of retro video game soundworlds. Thomas' research analyzes the representation of gender, race, and religion in video game music and the compositional innovations of Japanese 8-bit era video game composers. Thomas is Assistant Professor of Instruction in Theory & Composition at the <a href="https://colfa.utsa.edu/music/" target="_blank">University of Texas at San Antonio School of Music</a>.
 </p>

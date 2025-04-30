@@ -27,7 +27,7 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
     <li id="4.1"><b>Episode 4.1</b> (April 10, 2025) - Zachary Lloyd & John Combs, <a href="season04/e4.1">"The Role of Reprise and Revision in 'Shrek the Musical' (2008, 2024)”</a></li>
     <li id="4.2"><b>Episode 4.2</b> (April 17, 2025) - Leah Amarosa, <a href="season04/e4.2">“Formal and Textural Processes in Contemporary Worship Music”</a></li>
     <li id="4.3"><b>Episode 4.3</b> (April 24, 2025) - Joon Park, <a href="season04/e4.3">"Terminal Openings: Interpreting Songs that Begin by Ending"</a></li>
-    <li id = "4.4"><b>Episode 4.4</b> (May 1, 2025) - Anna Stephan-Robinson, "I will not tell you: Disconnection, Reticence, and Ambivalence in Heyman's 'Tortie-Tortue'"</li>
+    <li id = "4.4"><b>Episode 4.4</b> (May 1, 2025) - Anna Stephan-Robinson, <a href="season04/e4.4">"I Will Not Tell You: Disconnection, Reticence, and Ambivalence in Heyman's 'Tortie-Tortue'"</a></li>
     <li id="4.5"><b>Episode 4.5</b> (May 8, 2025) - Olivia Lucas & Mazbou Q, "Teaching Rhythm and Meter through Rap and Hip Hop: An Interview with Mazbou Q"</li>
     <li id="4.6"><b>Episode 4.6</b> (May 15, 2025) - Lydia Bangura, "Playing Dress-Up: Co-Performance in Mozart’s Abendempfindung K. 523"</li>
     <li id="4.7"><b>Episode 4.7</b> (May 22, 2025) - Jason Jedlička, "Voice and Agency in Henryk Górecki's Symphony No. 3"</li>

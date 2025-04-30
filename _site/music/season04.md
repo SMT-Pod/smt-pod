@@ -10,8 +10,9 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <div id="s4features">
 <p>The following composers and performers are featured in Season 4's episodes (updated as episodes are released)</p>
 <ul>
-<!--<li><a href="#falkenstein">Carter Falkenstein</a></li>-->
-
+<li><a href="#cowan">Linda Cowan</a></li>
+<li><a href="#lee">Jerry Lee</a></li>
+<li><a href="#peck">Jamie Peck</a></li>
 </ul>
 
 <p>Credits for individual episodes can be seen on our <a href="/episodes/season04">Season 4 episodes</a> page.</p>
@@ -20,18 +21,32 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <h3>Musician Biographies</h3>
 <p><em>Theme and Closing music composers are listed in our main <a href="/music#composerbios">music</a> page. Season 4 composers and performers listed below in alphabetical order by last name.</em></p>
 
-<!--<div class="biobox" id="falkenstein">
-<a name="falkenstein"></a>
-<h4><strong>Carter Falkenstein</strong></h4>
-<p style="font-size: 14px; font-weight: bold;"><a href="https://soundcloud.com/discofry" target="_blank">Composer's Soundcloud</a><br/>
-<a href="https://discofry.itch.io/" target="_blank">Composer's Itch.io</a><br/>
-Composer's X: @DiscoFri<br/>
-Composer's IG: @carter_falkenstein<br/>
-Piece Titles: <em>Theme in Yellow</em> and <em>Beyond the Beyond</em> featured in <a href="/episodes/season03/#e3.10">Episode 3.10</a><br/>
-</p>
-<p>Carter Falkenstein is a student at College of Southern Maryland. They have produced scores for the concerthall and film.
-</p>
+<div class="biobox" id="cowan">
+<a name="cowan"></a>
+<h4><strong>Linda Cowan</strong></h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://westliberty.edu/music/faculty/linda-cowan/" target="_blank">Performer's Website</a><br/>Compositions by Katherine Ruth Heyman featured in <a href="/episodes/season04/e4.4">episode 4.4</a></p>
+
 <a class="to-top" href="#top">Back to Top</a>
-</div>-->
+</div>
+
+<div class="biobox" id="Lee">
+<a name="lee"></a>
+<h4><strong>Jerry Lee</strong></h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://westliberty.edu/music/faculty/gerald-lee/" target="_blank">Performer's Website</a><br/>Compositions by Katherine Ruth Heyman featured in <a href="/episodes/season04/e4.4">episode 4.4</a></p>
+
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="Peck">
+<a name="peck"></a>
+<h4><strong>Jamie Peck</strong></h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://www.jamiepeckproductions.com" target="_blank">Engineer's Website</a><br/>Compositions by Katherine Ruth Heyman featured in <a href="/episodes/season04/e4.4">episode 4.4</a></p>
+<p>
+Jamie Peck Productions founder Jamie Peck is a Emmy award winning composer, producer, and engineer. Through his 50 years in the industry he has worked with a diverse range of clients including ABC, PBS, Showtime, HBO, and Nickelodeon. He also works with regional song writers and bands with a focus on maintaining a high-end sound that is competitive with the mainstream industry.<br/><br/>
+His journey began at nine years old when his older brother Skip put an alto sax in his hands. He began learning by listening to his brother play melodies of jazz tunes. In his early twenties he began to take an interest in audio recording. Jamie built his first recoding studio in 1986 and from there started Jamie Peck Productions. <br/><br/>
+As a player, Jamie has performed in a wide variety of situations from being the staff piano player on Jamboree USA backing up artists like Gary Morris and Kathy Mattea to producing and touring with the B.E. Taylor Group. </p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
 </div>
 </div>
