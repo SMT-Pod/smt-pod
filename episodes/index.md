@@ -29,7 +29,7 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
     <li id="4.3"><b>Episode 4.3</b> (April 24, 2025) - Joon Park, <a href="season04/e4.3">"Terminal Openings: Interpreting Songs that Begin by Ending"</a></li>
     <li id = "4.4"><b>Episode 4.4</b> (May 1, 2025) - Anna Stephan-Robinson, <a href="season04/e4.4">"I Will Not Tell You: Disconnection, Reticence, and Ambivalence in Heyman's 'Tortie-Tortue'"</a></li>
     <li id="4.5"><b>Episode 4.5</b> (May 8, 2025) - Olivia Lucas & Mazbou Q, <a href="season04/e4.5">"Teaching Rhythm and Meter through Rap and Hip Hop: An Interview with Mazbou Q"</a></li>
-    <li id="4.6"><b>Episode 4.6</b> (May 15, 2025) - Lydia Bangura, "Playing Dress-Up: Co-Performance in Mozart’s Abendempfindung K. 523"</li>
+    <li id="4.6"><b>Episode 4.6</b> (May 15, 2025) - Lydia Bangura, <a href="season04/e4.6">"Playing Dress-Up: Co-Performance in Mozart’s Abendempfindung K. 523"</a></li>
     <li id="4.7"><b>Episode 4.7</b> (May 22, 2025) - Jason Jedlička, "Voice and Agency in Henryk Górecki's Symphony No. 3"</li>
     <li id="4.8"><b>Episode 4.8</b> (May 29, 2025) - Brad Osborn, "Dual Leading Tone Loops in Post-Millennial Pop/Rock"</li>
     <li id="4.9"><b>Episode 4.9</b> (June 5, 2025) - Samantha Sasaki, "'For the Sake of Auld Lang Syne': Seeking Political Stability with the Great Highland Bagpipe in Hong Kong (1997-2024)"</li>

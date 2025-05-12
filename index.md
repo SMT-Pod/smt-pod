@@ -14,11 +14,13 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 
 # Latest News
+**May 2025** : [Call for season 5 podcasts is open!](submit) Deadline for Spring 2026 podcast season proposals is July 15, 2025 at 11:59pm EDT.
+
 **April 2025** : Season 4 launches on April 10!
 
-**November 2024** : [Call for Music is open!](music/callformusic) Deadline for music to be used in Season 4 (Spring 2025) podcast is December 9, 2024 at 11:59pm EST.
+**November 2024** : [Call for Music is open!](music/callformusic) Deadline for music to be used in Season 4 (Spring 2025) podcast is December 9, 2024 at 11:59pm EDT.
 
-**May 2024** : [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EST.
+**May 2024** : [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EDT.
 
 **April 2024** : That's a wrap on Season 3. Thank you to all of our authors, reviewers, producers, musicians, and board members for a great season!
 
