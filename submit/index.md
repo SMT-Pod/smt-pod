@@ -175,7 +175,6 @@ The <strong>initial proposal</strong> (500–1000 words) should include informat
         <li>Audio clip <strong>pronouncing your name</strong> and any other names in the episode)</li>
         <li>Credits to include to include in the <strong>show notes</strong> (such as students or colleagues who helped produce your episode or transcript)</li>
         <li><strong>Links</strong> to your website and/or social media handles (if applicable)</li></ol></li>
-    </ol>
 
     <p style="font-style: italic; font-weight: 700; padding-top: 15px;">B. Final Review and Publication</p>
     <ol style="padding-top: 15px;">
