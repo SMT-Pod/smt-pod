@@ -174,7 +174,8 @@ The <strong>initial proposal</strong> (500–1000 words) should include informat
         <li><strong>Supplemental materials</strong> following the formatting and reference guidelines from the <a href="https://docs.google.com/document/d/1e0cXKzThkR47zSOqhMFqxKuIfkF3z2zY/edit?usp=sharing&ouid=116262785641709199381&rtpof=true&sd=true" target="_blank">provided template</a></li>
         <li>Audio clip <strong>pronouncing your name</strong> and any other names in the episode)</li>
         <li>Credits to include to include in the <strong>show notes</strong> (such as students or colleagues who helped produce your episode or transcript)</li>
-        <li><strong>Links</strong> to your website and/or social media handles (if applicable)</li></ol></li>
+        <li><strong>Links</strong> to your website and/or social media handles (if applicable)</li></li>
+        </ol>
 
     <p style="font-style: italic; font-weight: 700; padding-top: 15px;">B. Final Review and Publication</p>
     <ol style="padding-top: 15px;">
