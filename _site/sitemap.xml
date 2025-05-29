@@ -154,6 +154,9 @@
 <loc>http://localhost:4000/episodes/season04/e4.7/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season04/e4.8/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -350,5 +353,9 @@
 <url>
 <loc>http://localhost:4000/episodes/season04/supplements/S04Ep07Supp_jedlicka.pdf</loc>
 <lastmod>2025-05-20T16:39:09-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season04/supplements/S04Ep08Supp_osborn.pdf</loc>
+<lastmod>2025-05-29T06:45:08-04:00</lastmod>
 </url>
 </urlset>
