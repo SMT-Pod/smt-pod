@@ -14,6 +14,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 
 # Latest News
+
 **May 2025** : [Call for season 5 podcasts is open!](submit) Deadline for Spring 2026 podcast season proposals is July 15, 2025 at 11:59pm EDT.
 
 **April 2025** : Season 4 launches on April 10!

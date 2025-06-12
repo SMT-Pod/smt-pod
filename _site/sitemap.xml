@@ -136,6 +136,9 @@
 <loc>http://localhost:4000/episodes/season04/e4.1/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season04/e4.10/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/episodes/season04/e4.2/</loc>
 </url>
 <url>
@@ -364,5 +367,9 @@
 <url>
 <loc>http://localhost:4000/episodes/season04/supplements/S04Ep09Supp_sasaki.pdf</loc>
 <lastmod>2025-06-04T11:24:38-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season04/supplements/S04Ep10Supp_ketter.pdf</loc>
+<lastmod>2025-06-11T21:13:08-04:00</lastmod>
 </url>
 </urlset>
