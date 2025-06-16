@@ -139,6 +139,9 @@
 <loc>http://localhost:4000/episodes/season04/e4.10/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season04/e4.11/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/episodes/season04/e4.2/</loc>
 </url>
 <url>
@@ -371,5 +374,13 @@
 <url>
 <loc>http://localhost:4000/episodes/season04/supplements/S04Ep10Supp_ketter.pdf</loc>
 <lastmod>2025-06-16T11:07:47-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season04/supplements/S04Ep11Supp_micchelli.pdf</loc>
+<lastmod>2025-06-16T11:23:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season04/supplements/S04Ep11Supp_micchelli_score.pdf</loc>
+<lastmod>2025-06-16T11:21:10-04:00</lastmod>
 </url>
 </urlset>
