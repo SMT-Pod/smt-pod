@@ -36,7 +36,7 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
     <li id="4.10"><b>Episode 4.10</b> (June 12, 2025) - Daniel Ketter, <a href="season04/e4.10">"Fuguing Essential Voices: An Informance of J. S. Bach's Prelude and Fugue, BWV 1011"</a></li>
     <li id="4.11"><b>Episode 4.11</b> (June 19, 2025) - Mark Micchelli, <a href="season04/e4.11">"Reimagine the Sound: Or, How to Improvise a Cecil Taylor Improvisation"</a></li>
     <li id="4.12"><b>Episode 4.12</b> (June 26, 2025) - Audrey Slote, <a href="season04/e4.12">"Nicole Mitchell's <em>Mandorla Awakening II</em> and the Sounds of Afrofuturist Theory"</a></li>
-    <li id="4.13"><b>Episode 4.13</b> (July 3, 2025) - Craig Peaslee, "Reimagining Music Analysis: A Radio Broadcast of Johanna Beyer’s Music of the Spheres"</li>
+    <li id="4.13"><b>Episode 4.13</b> (July 3, 2025) - Craig Peaslee, <a href="season04/e4.13">"Reimagining Music Analysis: A Radio Broadcast of Johanna Beyer’s Music of the Spheres"</a></li>
     <li id="4.14"><b>Episode 4.14</b> (July 10, 2025) - Alexandrea Jonker & Peter Schubert, "Idiomatic Improvisation: Where Theory Meets Aural Skills"</li>
   </ul>
 </div>
