@@ -4,10 +4,10 @@
 </div>
 
 <div class="seasonplayer" id="podcastPlayer">
-  <iframe style="float: left; width: 60%; height: 380px; padding: 0px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/collection/a4ee083f-cde6-4be1-af60-de6d95972240/"></iframe>
+  <iframe style="float: left; width: 60%; height: 380px; padding: 0px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/collection/bbb422cf-8103-4d2d-8f47-ac83c52546d3"></iframe>
 
   <div id="streamingButtons" style="padding: 10px; text-align: center;">
-    <p><a style="font-style: italic; padding-left: 5px;" href="https://player.captivate.fm/collection/a4ee083f-cde6-4be1-af60-de6d95972240/" target="_blank">Click here to open player in a new window</a>
+    <p><a style="font-style: italic; padding-left: 5px;" href="https://player.captivate.fm/collection/bbb422cf-8103-4d2d-8f47-ac83c52546d3" target="_blank">Click here to open player in a new window</a>
     </p>
 
     <p>Stream on your favorite podcast app:

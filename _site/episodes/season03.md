@@ -22,7 +22,7 @@
 <!----DIVIDER: Table of Contents ------------------------------------------------------------------------------------------------------------>
 <div>
   <h2>Season 3 Episodes</h2>
-  <p>Click each episode title to see credits and supplemental materials</p>
+  <p>Click each episode title to see credits and supplemental materials.</p>
   <ul>
     <li id="3.1"><b>Episode 3.1</b> (January 25, 2024) - Joseph Straus, <a href="e3.1">"Introduction to Stravinsky’s 1911 <em>Petrushka</em>”</a></li>
     <li id="3.2"><b>Episode 3.2</b> (February 1, 2024) - Abigail Lindo, <a href="e3.2">“Muito Beleza – Ana’s Hands: Postcolonial Gendered Legacies of the Viola da Terra”</a></li>

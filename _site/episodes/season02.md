@@ -19,7 +19,7 @@
 <!----DIVIDER: Table of Contents ------------------------------------------------------------------------------------------------------------>
 <div>
 <h2>Season 2 Episodes</h2>
-
+  <p>Click each episode title to see credits and supplemental materials.</p>
 <ul><li id="2.1"><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
 <li id="2.2"><b>Episode 2.2</b> (February 2, 2023) - Matthew Ferrandino & Frank Nawrot, <a href="e2.2">“Tonal Polymodality in Tool's Ænima” </a></li>
 <li id="2.3"><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>

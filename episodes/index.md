@@ -7,7 +7,7 @@
 ### Listen to the Latest Episode
 
 <div class="announce">
-Season 4 Launch: Join us every Thursday beginning April 10, 2025 for a new episode!
+Season 5 Launch: Join us every Thursday beginning April 23, 2026 for a new episode!
 </div>
 
 <iframe style="width: 100%; height:200px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
@@ -19,25 +19,21 @@ _<a href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/
 </div>
 <hr>
 
-<h3>Season 4 (Spring 2025)</h3>
-A new episode released every Thursday, beginning April 10, 2025. Click on an episode name below for credits and supplementary materials (updated throughout the season).
+<h3>Season 5 (Spring 2026)</h3>
+A new episode releases every Thursday, beginning April 23, 2026. Click on an episode name below for credits and supplementary materials (updated throughout the season).
 
 <div>
   <ul>
-    <li id="4.1"><b>Episode 4.1</b> (April 10, 2025) - Zachary Lloyd & John Combs, <a href="season04/e4.1">"The Role of Reprise and Revision in 'Shrek the Musical' (2008, 2024)”</a></li>
-    <li id="4.2"><b>Episode 4.2</b> (April 17, 2025) - Leah Amarosa, <a href="season04/e4.2">“Formal and Textural Processes in Contemporary Worship Music”</a></li>
-    <li id="4.3"><b>Episode 4.3</b> (April 24, 2025) - Joon Park, <a href="season04/e4.3">"Terminal Openings: Interpreting Songs that Begin by Ending"</a></li>
-    <li id = "4.4"><b>Episode 4.4</b> (May 1, 2025) - Anna Stephan-Robinson, <a href="season04/e4.4">"I Will Not Tell You: Disconnection, Reticence, and Ambivalence in Heyman's 'Tortie-Tortue'"</a></li>
-    <li id="4.5"><b>Episode 4.5</b> (May 8, 2025) - Olivia Lucas & Mazbou Q, <a href="season04/e4.5">"Teaching Rhythm and Meter through Rap and Hip Hop: An Interview with Mazbou Q"</a></li>
-    <li id="4.6"><b>Episode 4.6</b> (May 15, 2025) - Lydia Bangura, <a href="season04/e4.6">"Playing Dress-Up: Co-Performance in Mozart’s Abendempfindung K. 523"</a></li>
-    <li id="4.7"><b>Episode 4.7</b> (May 22, 2025) - Jason Jedlička, <a href="season04/e4.7">"Voice and Agency in Henryk Górecki's Symphony No. 3"</a></li>
-    <li id="4.8"><b>Episode 4.8</b> (May 29, 2025) - Brad Osborn, <a href="season04/e4.8">"Dual Leading Tone Loops in Post-Millennial Pop/Rock"</a></li>
-    <li id="4.9"><b>Episode 4.9</b> (June 5, 2025) - Samantha Sasaki, <a href="season04/e4.9">"'In the Days of Auld Lang Syne': Stability and Bagpipe Music in Hong Kong (1997-2024)"</a></li>
-    <li id="4.10"><b>Episode 4.10</b> (June 12, 2025) - Daniel Ketter, <a href="season04/e4.10">"Fuguing Essential Voices: An Informance of J. S. Bach's Prelude and Fugue, BWV 1011"</a></li>
-    <li id="4.11"><b>Episode 4.11</b> (June 19, 2025) - Mark Micchelli, <a href="season04/e4.11">"Reimagine the Sound: Or, How to Improvise a Cecil Taylor Improvisation"</a></li>
-    <li id="4.12"><b>Episode 4.12</b> (June 26, 2025) - Audrey Slote, <a href="season04/e4.12">"Nicole Mitchell's <em>Mandorla Awakening II</em> and the Sounds of Afrofuturist Theory"</a></li>
-    <li id="4.13"><b>Episode 4.13</b> (July 3, 2025) - Craig Peaslee, <a href="season04/e4.13">"Reimagining Music Analysis: A Radio Broadcast of Johanna Beyer’s Music of the Spheres"</a></li>
-    <li id="4.14"><b>Episode 4.14</b> (July 10, 2025) - Alexandrea Jonker & Peter Schubert, <a href="season04/e4.14">"Idiomatic Improvisation: Where Theory Meets Aural Skills"</a></li>
+    <li id="5.1"><b>Episode 5.1</b> (April 23, 2026) - Rachel Lumsden, "SMT-Pod Student Seminar Series: Introduction"</li>
+    <li id="5.2"><b>Episode 5.2</b> (April 30, 2026) - Aaron D'Zurilla, "Trauma and Vocal Utterances in Ellen Reid's <em>p r i s m</em> (2018)"</li>
+    <li id="5.3"><b>Episode 5.3</b> (May 7, 2026) - Isabel Milbourn, "The Two Harriets in Thea Musgrave's <em>Harriet, The Woman Called Moses</em>"</li>
+    <li id="5.4"><b>Episode 5.4</b> (May 14, 2026) - Zachary Simonds, "Power and Captivity in Thea Musgrave's <em>Mary, Queen of Scots</em></li>
+    <li id="5.5"><b>Episode 5.5</b> (May 21, 2026) - Brandon D. Scribner, "Texture, Timbre, and Instrumentation in Laura Kaminsky's <em>As One</em>: A Trans Narrative"</li>
+    <li id="5.6"><b>Episode 5.6</b> (May 28, 2026) - Luis Matos-Tovar, "Gender and the Death Trope in Judith Weir's <em>The Black Spider</em></li>
+    <li id="5.7"><b>Episode 5.7</b> (June 4, 2026) - Hang Ki Choi, "Is It Over? How Silence Frames Musical Beginnings and Endings in Arvo Pärt's 'Ludus'"</li>
+    <li id="5.8"><b>Episode 5.8</b> (June 11, 2026) - Alice (Bai) Xue, "One Block to Rule Them All: The Single-Block Form in African Music"</li>
+    <li id="5.9"><b>Episode 5.9</b> (June 18, 2026) - Sasha Drozzina, "Swan Lake: How the Classical Ballet Became a Political Mosh"</li>
+    <li id="5.10"><b>Episode 5.10</b> (June 25, 2026) - Tan Nazare, "How Anime Opening Credits Hook You and Tell You a Story"</li>
   </ul>
 </div>
 
@@ -47,4 +43,5 @@ A new episode released every Thursday, beginning April 10, 2025. Click on an epi
 <h4><a href="season01">Season 1</a> (Spring 2022)</h4>
 <h4><a href="season02">Season 2</a> (Spring 2023)</h4>
 <h4><a href="season03">Season 3</a> (Spring 2024)</h4>
+<h4><a href="season04">Season 4</a> (Spring 2025)</h4>
 </div>
