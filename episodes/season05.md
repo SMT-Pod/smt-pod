@@ -24,10 +24,10 @@
   <h2>Season 5 Episodes</h2>
   <p>Click each episode title to see credits and supplemental materials.</p>
   <ul>
-    <li id="5.1"><b>Episode 5.1</b> (April 23, 2026) - Rachel Lumsden, "SMT-Pod Student Seminar Series: Introduction"</li>
+    <li id="5.1"><b>Episode 5.1</b> (April 23, 2026) - Rachel Lumsden, "SMT-Pod Student Seminar Series: Gender and Contemporary Opera (Introduction)"</li>
     <li id="5.2"><b>Episode 5.2</b> (April 30, 2026) - Aaron D'Zurilla, "Trauma and Vocal Utterances in Ellen Reid's <em>p r i s m</em> (2018)"</li>
     <li id="5.3"><b>Episode 5.3</b> (May 7, 2026) - Isabel Milbourn, "The Two Harriets in Thea Musgrave's <em>Harriet, The Woman Called Moses</em>"</li>
-    <li id="5.4"><b>Episode 5.4</b> (May 14, 2026) - Zachary Simonds, "Power and Captivity in Thea Musgrave's <em>Mary, Queen of Scots</em></li>
+    <li id="5.4"><b>Episode 5.4</b> (May 14, 2026) - Zachary Simonds, "Power and Captivity in Thea Musgrave's <em>Mary, Queen of Scots</em>"</li>
     <li id="5.5"><b>Episode 5.5</b> (May 21, 2026) - Brandon D. Scribner, "Texture, Timbre, and Instrumentation in Laura Kaminsky's <em>As One</em>: A Trans Narrative"</li>
     <li id="5.6"><b>Episode 5.6</b> (May 28, 2026) - Luis Matos-Tovar, "Gender and the Death Trope in Judith Weir's <em>The Black Spider</em>"</li>
     <li id="5.7"><b>Episode 5.7</b> (June 4, 2026) - Hang Ki Choi, "Is It Over? How Silence Frames Musical Beginnings and Endings in Arvo Pärt's 'Ludus'"</li>
