@@ -22,7 +22,7 @@
 <!----DIVIDER: Table of Contents ------------------------------------------------------------------------------------------------------------>
 <div>
   <h2>Season 4 Episodes</h2>
-  <p>Click each episode title to see credits and supplemental materials</p>
+  <p>Click each episode title to see credits and supplemental materials.</p>
   <ul>
     <li id="4.1"><b>Episode 4.1</b> (April 10, 2025) - Zachary Lloyd & John Combs, <a href="e4.1">"The Role of Reprise and Revision in 'Shrek the Musical' (2008, 2024)”</a></li>
     <li id="4.2"><b>Episode 4.2</b> (April 17, 2025) - Leah Amarosa, <a href="e4.2">“Formal and Textural Processes in Contemporary Worship Music”</a></li>
