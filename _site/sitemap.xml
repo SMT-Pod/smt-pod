@@ -187,6 +187,9 @@
 <loc>http://localhost:4000/episodes/season05/e5.3/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season05/e5.4/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -427,5 +430,9 @@
 <url>
 <loc>http://localhost:4000/episodes/season05/supplements/S05Ep03Supp_milbourn.pdf</loc>
 <lastmod>2026-05-06T12:05:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season05/supplements/S05Ep04Supp_simonds.pdf</loc>
+<lastmod>2026-05-13T09:15:04-04:00</lastmod>
 </url>
 </urlset>
