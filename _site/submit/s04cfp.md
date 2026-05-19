@@ -5,7 +5,7 @@
 </div>
 
 >Calls for a new season begin in May of each year.<br/>
->See the Archived Season 4 Call for Podcasts below.-
+>See the Archived Season 4 Call for Podcasts below.
 
 ### Overview
 
