@@ -4,37 +4,40 @@
   </div>
 </div>
 <hr>
-**April 2025** : Season 4 launches on April 10!
 
-**November 2024** : [Call for Music is open!](music/callformusic) Deadline for music to be used in Season 4 (Spring 2025) podcast is December 9, 2024 at 11:59pm EST.
+**May 2025**: [Call for season 5 podcasts is open!](submit) Deadline for Spring 2026 podcast season proposals is July 15, 2025 at 11:59pm EDT.
 
-**May 2024** : [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EST.
+**April 2025**: Season 4 launches on April 10!
 
-**April 2024** : That's a wrap on Season 3. Thank you to all of our authors, reviewers, producers, musicians, and board members for a great season!
+**November 2024**: [Call for Music is open!](music/callformusic) Deadline for music to be used in Season 4 (Spring 2025) podcast is December 9, 2024 at 11:59pm EST.
 
-**January 2024** : Season 3 launches! Join us every Thursday beginning on January 25, 2024 for a weekly podcast episode.
+**May 2024**: [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EST.
 
-**June 2023** : [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
+**April 2024**: That's a wrap on Season 3. Thank you to all of our authors, reviewers, producers, musicians, and board members for a great season!
 
-**May 2023** : [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
+**January 2024**: Season 3 launches! Join us every Thursday beginning on January 25, 2024 for a weekly podcast episode.
 
-**January 2023** : New season launches! Join us every Thursday beginning on January 26, 2023 for a weekly podcast episode.
+**June 2023**: [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
 
-**November 2022** : Come chat with our board at our open board meeting during the Mega Joint SMT, AMS, and SEM Conference. Dessert will be provided! The meeting will be held in the Executive Board Room in the Conference Hotel on Thursday, November 10, 2022 and is open to all 8-9:00pm. Check out the event on the <a href="https://www.conftool.pro/nola2022-ams-sem-smt/index.php?page=browseSessions&form_session=383" target="_blank">conference program here</a>.
+**May 2023**: [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
 
-**Fall 2022** : We are in production for Season 2. Thank you for all who submitted proposals for the season. For now, feel free to listen to Season 1 podcasts in the [Episodes](episodes) page and stay tuned for our new season in January 2023.
+**January 2023**: New season launches! Join us every Thursday beginning on January 26, 2023 for a weekly podcast episode.
 
-**April 28, 2022** : It's a wrap on Season 1! Thanks for listening. Remember see the list of podcasts, release dates, and supplemental materials at our [Episodes](episodes) page. You can also check out the [featured music page](music) for more information about composers, performers, and artists featured in the podcast.
+**November 2022**: Come chat with our board at our open board meeting during the Mega Joint SMT, AMS, and SEM Conference. Dessert will be provided! The meeting will be held in the Executive Board Room in the Conference Hotel on Thursday, November 10, 2022 and is open to all 8-9:00pm. Check out the event on the <a href="https://www.conftool.pro/nola2022-ams-sem-smt/index.php?page=browseSessions&form_session=383" target="_blank">conference program here</a>.
 
-**January 13, 2022** : We've Launched! Check out your favorite podcast streaming app to listen to our first season, and tune in every Thursday for a new episode. To see the list of upcoming podcasts, release dates, and supplemental materials, check out our [Episodes](episodes) page! We also want to thank all of our music contributors - check out the [featured music page](music) for more information about original works featured in the podcast.
+**Fall 2022**: We are in production for Season 2. Thank you for all who submitted proposals for the season. For now, feel free to listen to Season 1 podcasts in the [Episodes](episodes) page and stay tuned for our new season in January 2023.
 
-**January 1, 2022** : **Happy New Year** We will be releasing podcasts every Thursday starting January 13. To see the list of upcoming podcasts and release dates, check out our [Episodes](episodes) page!
+**April 28, 2022**: It's a wrap on Season 1! Thanks for listening. Remember see the list of podcasts, release dates, and supplemental materials at our [Episodes](episodes) page. You can also check out the [featured music page](music) for more information about composers, performers, and artists featured in the podcast.
 
-**November 4, 2021** : **Our season 1 podcasts are in production.** To learn more about the first season and listen to a preview of one of our episodes, check out our Season 1 preview!
+**January 13, 2022**: We've Launched! Check out your favorite podcast streaming app to listen to our first season, and tune in every Thursday for a new episode. To see the list of upcoming podcasts, release dates, and supplemental materials, check out our [Episodes](episodes) page! We also want to thank all of our music contributors - check out the [featured music page](music) for more information about original works featured in the podcast.
 
-**September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme..
+**January 1, 2022**: **Happy New Year** We will be releasing podcasts every Thursday starting January 13. To see the list of upcoming podcasts and release dates, check out our [Episodes](episodes) page!
 
-**June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
+**November 4, 2021**: **Our season 1 podcasts are in production.** To learn more about the first season and listen to a preview of one of our episodes, check out our Season 1 preview!
+
+**September 2021**: **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme.
+
+**June 1, 2021**: _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
 
 <hr>
 <h2>Listen to the Latest Episode</h2>
