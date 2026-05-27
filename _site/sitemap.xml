@@ -193,6 +193,9 @@
 <loc>http://localhost:4000/episodes/season05/e5.5/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season05/e5.6/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -444,5 +447,9 @@
 <url>
 <loc>http://localhost:4000/episodes/season05/supplements/S05Ep05Supp_scribner.pdf</loc>
 <lastmod>2026-05-19T12:00:36-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season05/supplements/S05Ep06Supp_matos-tovar.pdf</loc>
+<lastmod>2026-05-27T08:46:17-05:00</lastmod>
 </url>
 </urlset>
