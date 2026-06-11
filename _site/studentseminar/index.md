@@ -31,8 +31,8 @@ Other Considerations:
 
 Course proposals will be due on **July 16, 2026** for Fall Semester, Fall Quarter, and/or Winter Quarter courses. Proposals can be submitted [here](https://docs.google.com/forms/d/e/1FAIpQLScUYhExObkIILMKdspiViftO-GVMg2wH-KeIIFuPr9yI37qcg/viewform?usp=header).
 
-For an excellent example of what this series could look like for you and your students, see the inaugural Student Seminar Series in Season 5 (https://smt-pod.org/episodes/, episodes 5.1, 5.2, 5.3, 5.4, and 5.5), which follows Dr. Rachel Lumsden's seminar titled "Gender and Contemporary Opera." 
+For an excellent example of what this series could look like for you and your students, see the inaugural Student Seminar Series in [Season 5](https://smt-pod.org/episodes/) (episodes 5.1, 5.2, 5.3, 5.4, and 5.5), which follows Dr. Rachel Lumsden's seminar titled "Gender and Contemporary Opera." 
 
-If you have questions, concerns, or would simply like to talk through your idea before submitting a proposal, please don’t hesitate to contact us at smt-pod@societymusictheory.org.
+If you have questions, concerns, or would simply like to talk through your idea before submitting a proposal, please don’t hesitate to contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory.org).
 <hr>
 <h4><a href="#top">Back to Top</a></h4>
