@@ -202,6 +202,9 @@
 <loc>http://localhost:4000/episodes/season05/e5.8/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/episodes/season05/e5.9/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -468,5 +471,9 @@
 <url>
 <loc>http://localhost:4000/episodes/season05/supplements/S05Ep08Supp_xue.pdf</loc>
 <lastmod>2026-06-10T21:48:44-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/season05/supplements/S05Ep09Supp_drozzina.pdf</loc>
+<lastmod>2026-06-17T11:00:40-04:00</lastmod>
 </url>
 </urlset>
