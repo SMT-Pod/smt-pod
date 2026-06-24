@@ -1,6 +1,6 @@
 <!----DIVIDER: Top of Page ------------------------------------------------------------------------------------------------------------>
 <div class="seasonheader">
-    <h1 class="seasonheader-text">Season 4 (Spring 2025)</h1>
+    <h1 class="seasonheader-text">Season 5 (Spring 2026)</h1>
 </div>
 
 <div class="seasonplayer" id="podcastPlayer">
@@ -33,6 +33,6 @@
     <li id="5.7"><b>Episode 5.7</b> (June 4, 2026) - Hang Ki Choi, <a href="e5.7">"Is It Over? How Silence Frames Musical Beginnings and Endings in Arvo Pärt's 'Ludus'"</a></li>
     <li id="5.8"><b>Episode 5.8</b> (June 11, 2026) - Alice (Bai) Xue, <a href="e5.8">"One Block to Rule Them All: The Single-Block Form in African Music"</a></li>
     <li id="5.9"><b>Episode 5.9</b> (June 18, 2026) - Sasha Drozzina, <a href="e5.9">"Swan Lake: How the Classical Ballet Became a Political Mosh"</a></li>
-    <li id="5.10"><b>Episode 5.10</b> (June 25, 2026) - Tan Nazare, "How Anime Opening Credits Hook You and Tell You a Story"</li>
+    <li id="5.10"><b>Episode 5.10</b> (June 25, 2026) - Tan Nazare, <a href="e5.10">"How Anime Opening Credits Hook You and Tell You a Story"</a></li>
   </ul>
 </div>
